@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+image.png
+venv/
+.venv/
+__pycache__/
+uploads/
+outputs/
+*.pt
+*.pth
